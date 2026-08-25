@@ -8,9 +8,10 @@ Dataset: A single flat operational log with 35 attributes covering ~8,365 calls 
 
 Deliverables in the package:
 
-Word document — a formal Q&A assignment write-up in two parts:
 Objective questions: data structure, cleaning methodology, call volume trends, revenue by product/category, agent workload, correlation between call duration and satisfaction, top/bottom-rated gurus, categorical vs. continuous fields, etc.
+
 Subjective/strategic questions: investment allocation reasoning, risk/mitigation matrices for hiring vs. training vs. technology, peak-hour handling strategy, workload-balancing recommendations, and a final justified breakdown of the ₹1 Cr budget (45% infrastructure, 25% dashboards/BI, 20% automated CX, 10% incentives).
+
 Excel workbook — the underlying pivot-table/dashboard analysis (cleaned data, KPI calculations, correlation functions, interactive slicers) that the written and presentation answers are drawn from.
 PowerPoint deck (17 slides) — an executive-style summary of the same findings:
 Problem statement (3 investment options: Hire/Train/Upgrade Tech)
